@@ -1,5 +1,5 @@
-# La pagina de los Esland clonada
+# La página de los Esland clonada
 
-Creada para fines didacticos y educativos
+Creada para fines didácticos y educativos
 
-**Esta pagina no es oficial**
+**Esta página no es oficial**
