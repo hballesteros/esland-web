@@ -1,25 +1,375 @@
 {
-    "SEO_TITLE": "ESLAND Awards 2024 - Celebrating the best of streaming and content creators",
-    "SEO_DESCRIPTION": "Discover the best content creators from Spain, Latin America and Andorra. Vote for your favorites! Celebrate the innovation and talent of Twitch, YouTube and more",
-    "SEO": {
-      "ARCHIVO_TITLE": "Archive of previous editions - ESLAND Awards 2024",
-      "ARCHIVO_DESCRIPTION": "Review the best moments of previous editions",
-      "INFO_TITLE": "Information - ESLAND Awards 2024",
-      "INFO_DESCRIPTION": "Discover everything you need to know about the ESLAND Awards 2024 and download the Press Kit",
-      "VOTE_TITLE": "Vote for your favorite content creators - ESLAND Awards 2024",
-      "VOTE_DESCRIPTION_en": "Vote for your favorite content creators from Spain, Latin America and Andorra"
+  "SEO_TITLE": "ESLAND Awards 2024 - Celebrating the best of streaming and content creators",
+  "SEO_DESCRIPTION": "Discover the best content creators from Spain, Latin America and Andorra. Vote for your favorites! Celebrate the innovation and talent of Twitch, YouTube and more",
+  "SEO": {
+    "ARCHIVO_TITLE": "Archive of previous editions - ESLAND Awards 2024",
+    "ARCHIVO_DESCRIPTION": "Review the best moments of previous editions",
+    "INFO_TITLE": "Information - ESLAND Awards 2024",
+    "INFO_DESCRIPTION": "Discover everything you need to know about the ESLAND Awards 2024 and download the Press Kit",
+    "VOTE_TITLE": "Vote for your favorite content creators - ESLAND Awards 2024",
+    "VOTE_DESCRIPTION_en": "Vote for your favorite content creators from Spain, Latin America and Andorra"
+  },
+  "HEADER": {
+    "LOGO": "Back to the ESLAND Awards homepage"
+  },
+  "HEADER_VOTE": "VOTE",
+  "HEADER_INFO": "INFO",
+  "HEADER_ARCHIVE": "ARCHIVE",
+  "HEADER_BUTTON": "NOMINATION CRITERIA",
+  "HERO_SUBTITLE": "Awards to the Spanish-speaking Streaming Community",
+  "INTRO_TITLE": "Welcome",
+  "INTRO_TITLE_AFTER_BR": "to the ESLAND Awards",
+  "INTRO_DESCRIPTION_1": "The cinema has the Oscars, the music has the Grammys and <strong>the streaming has the ESLAND</strong>. The awards that celebrate the creativity and talent of the best content creators of <strong>the Spanish-speaking community</strong>",
+  "INTRO_DESCRIPTION_2": "Spain, Latin America and Andorra united by creators and their communities, to remember and relive <strong>some of the best moments of the year</strong>",
+  "INTRO_DESCRIPTION_3": "After two galas celebrated, one in the Palau de la Música Catalana in Barcelona, and another in the National Auditorium of Mexico City, we just have to wait for <strong>the third edition in Andorra</strong>",
+  "BENTO_TITLE_1": "Andorra: the zenith of the ESLAND awards",
+  "BENTO_CONTENT_1": "A new edition <strong>full of news</strong> and content, which will start several weeks before the long-awaited gala. <strong>Special live shows, collaborations, concerts and much more</strong> in what will be an authentic party dedicated to content creation.",  
+  "BENTO_TITLE_2": "The white carpet",
+  "BENTO_SUBTITLE_2": "February 16, 2024",
+  "BENTO_CONTENT_2": "This year, the moment of the blue carpet will be replaced and improved, thanks to the incredible Andorran landscapes, by a <strong>white carpet in the middle of the snow</strong>, located in the <strong>snowy slopes of Andorra</strong>.",
+  "BENTO_TITLE_3": "The gala",
+  "BENTO_SUBTITLE_3": "February 17, 2024",
+  "BENTO_CONTENT_3": "An awards gala full of <strong>top-notch content</strong> and <strong>many surprises</strong>, in which they will discover the winners of this third edition of the ESLAND Awards.",
+  "BENTO_TITLE_4": "Enjoy the community's Reddit",
+  "BENTO_CONTENT_4": "This year, the reddit will not be part of the awards voting, but it will be part of the community. The official subreddit of the ESLAND Awards is open for you. Share your clips, opinions and <strong>interact with the entire Spanish-speaking streaming community</strong>.",
+  "VIDEO_ALT": "ESLAND - Awards for the Spanish-speaking Streaming Community",
+  "VIDEO_BUTTON": "Vote",
+  "PREFOOTER_VIDEO_TITLE": "Guide to the 3rd Edition of the ESLAND Awards",
+  "ARCHIVO": {
+    "HERO_TITLE": "Previous Editions",
+    "HERO_BUTTON": "Relive the Last Gala",
+    "COUNTER_TITLE": "ESLAND in Numbers",
+    "COUNTER_VIEWS": "views",
+    "COUNTER_NEWS": "press articles",
+    "COUNTER_MEDIA": "earned media"
+  },
+  "FOOTER": {
+    "DISCLAIMER": "© ESLAND 2021 - 2024 All rights reserved. - This is not the official website, developed by @midudev for educational purposes",
+    "LEGAL": {
+      "TITLE": "Legal",
+      "NOTICE": "Legal Notice",
+      "PRIVACY": "Privacy",
+      "COOKIES": "Cookies",
+      "PRIVACY_POLICY": "Privacy Policy",
+      "TOS": "Terms and Conditions"
     },
-    "HEADER": {
-      "LOGO": "Back to the ESLAND Awards homepage"
+    "WEB_MAP": {
+      "TITLE": "Site Map",
+      "HOME": "Home",
+      "INFO": "Info",
+      "ARCHIVE": "Archive"
     },
-    "HEADER_VOTE": "VOTE",
-    "HEADER_INFO": "INFO",
-    "HEADER_ARCHIVE": "ARCHIVE",
-    "HEADER_BUTTON": "NOMINATION CRITERIA",
-    "HERO_SUBTITLE": "Awards to the Spanish-speaking Streaming Community",
-    "INTRO_TITLE": "Welcome",
-    "INTRO_TITLE_AFTER_BR": "to the ESLAND Awards",
-    "INTRO_DESCRIPTION_1": "The cinema has the Oscars, the music has the Grammys and <strong>the streaming has the ESLAND</strong>. The awards that celebrate the creativity and talent of the best content creators of <strong>the Spanish-speaking community</strong>",
-    "INTRO_DESCRIPTION_2": "Spain, Latin America and Andorra united by creators and their communities, to remember and relive <strong>some of the best moments of the year</strong>",
-    "INTRO_DESCRIPTION_3": "After two galas celebrated, one in the Palau de la Música Catalana in Barcelona, and another in the National Auditorium of Mexico City, we just have to wait for <strong>the third edition in Andorra</strong>"
+    "PRODUCED_BY": "Produced by"
+  },
+
+  "INFO_TITLE": "The ESLAND Awards",
+  "INFO_TITLE_1": "A unique recognition for creators and communities",
+  "INFO_CONTENT_1_1": "The ESLAND Awards are a private initiative promoted by the renowned streamer TheGrefg, aiming to support and acknowledge content creation in the Spanish-speaking community.",
+  "INFO_CONTENT_1_2": "ESLAND is an acronym for SPAIN, LATIN AMERICA, AND ANDORRA, three geographical locations that share the language that unites them beyond any border, whether physical or virtual.",
+  "INFO_TITLE_2": "THE CREATION AWARD",
+  "INFO_CONTENT_2_1": "The trophy presented to the winners at the ceremony is <strong>a representation of the letter 'A' divided into three fragments</strong> and assembled as a futuristic gadget upon which the event's narrative is built.",
+  "INFO_CONTENT_2_2": "An artifact of unknown origin that provides <strong>tools and skills for creation.</strong> A metaphor for the emancipation of talent through technology and the emergence of content creators in the entertainment world.",
+  "MEDIA_KIT_TITLE": "PRESS KIT",
+  "MEDIA_KIT_SUBTITLE_1": "LOGO AND TROPHY",
+  "MEDIA_KIT_SUBTITLE_2": "WALLPAPERS",
+  "MEDIA_KIT_SUBTITLE_3": "PRESS RELEASE",
+  "DOWNLOAD_BUTTON": "DOWNLOAD",
+  "COOKIES": {
+    "POLICIES": {
+      "TITLE": "Cookie Policy",
+      "DESCRIPTION_1": "This Cookie Policy is an integral part of the Legal Notice and Privacy Policy of www.premiosesland.com (hereinafter, Website), owned by UBIQ S.L.U (hereinafter, UBIQ) with registered office at Calle Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany, and responsible for the Cookies and the processing of personal data obtained through first-party and third-party cookies used on this Website.",
+      "DESCRIPTION_2": "This Website uses third-party cookies, specifically Google Analytics analytical cookies, to analyze user activity on the website for statistical purposes.",
+      "DESCRIPTION_3": "You can accept all cookies, reject them, or configure your preferences in the cookie settings panel. You can revoke consent or modify your cookie settings preferences at any time by accessing the settings panel again. Additionally, you can prevent the download of cookies or delete those installed through your browser settings, preventing cookies from being stored on your device. It is very important to read this cookie policy.",
+      "DESCRIPTION_4": "We inform you that rejecting and deactivating cookies may affect or hinder navigation or the provision of services offered on this Website."
+    },
+    "WHAT_IS": {
+      "TITLE": "What Are Cookies?",
+      "DESCRIPTION_1": "Cookies are alphanumeric identifiers that contain information installed on the User's device and are downloaded to the User's web browser when they visit and access a website. Their main purpose is to uniquely identify and recognize the User's device each time they access the Website, in addition to improving the quality and offering better use of the Website.",
+      "DESCRIPTION_2": "They are small text files stored on the computer's hard drive that serve to identify the User when they connect to the website again. Their goal is to record the User's visit and save certain information. Their use is common and frequent on the web as it allows pages to function more efficiently and provides greater personalization and analysis of User behavior."
+    },
+    "TYPES": {
+      "TITLE": "What Types of Cookies Exist?",
+      "DESCRIPTION_1_TITLE": "1. According to the entity that manages them:",
+      "DESCRIPTION_1": "First-party cookies are those installed on the User's terminal from the domain managed by the Website owner, and third-party cookies are those installed on the User's terminal from a domain managed by third parties that process data obtained through such cookies.",
+      "DESCRIPTION_2_TITLE": "2. According to the duration they remain active:",
+      "DESCRIPTION_2": "Session cookies are those that remain active and collect data while the user accesses a website and disappear at the end of the session, and permanent cookies are those that remain active and from which information is collected for a period defined by the cookie owner or until they are deactivated or deleted by the User.",
+      "DESCRIPTION_3_TITLE": "3. Technical Cookies:",
+      "DESCRIPTION_3": "These allow the User to navigate through a website and use the different options or services offered, such as controlling traffic and data communication, identifying the session, accessing restricted access parts, making a registration request, using security elements during navigation, etc. Since they are necessary for the website's operation, these cookies will be active and cannot be rejected.",
+      "DESCRIPTION_4_TITLE": "4. Performance or Operational Cookies:",
+      "DESCRIPTION_4": "This type of cookie remembers your preferences when navigating the Web so that you do not have to configure the service again each time you visit the Web. Examples in this typology include: Volume settings for video or sound players. Video streaming speeds compatible with your browser. These cookies can be disabled by the User, although this may affect the proper functioning of the Web services.",
+      "DESCRIPTION_5_TITLE": "5. Analytical or Measurement Cookies:",
+      "DESCRIPTION_5": "These allow tracking and analysis of User behavior on the Web to obtain statistical data and improve the Web's operation. Each time a User visits a website, an external provider's tool generates an analytical cookie on the User's computer.",
+      "DESCRIPTION_6_TITLE": "6. Advertising Cookies:",
+      "DESCRIPTION_6": "These cookies allow obtaining information about the duration or frequency of viewing advertising positions, interaction with them, or User navigation patterns and/or behaviors, as they help create an advertising interest profile. Thus, they allow offering advertising related to the User's interests."
+    },
+    "BLOCK": {
+      "TITLE": "Reject, Configure, Disable, or Block Cookies:",
+      "DESCRIPTION_1": "In the banner or in the always active and accessible cookie settings panel, the User has the option to accept or reject cookies, as well as configure preferences for cookies requiring User consent.",
+      "DESCRIPTION_2": "The User can revoke the initially given consent or modify preferences at any time by accessing the settings panel.",
+      "DESCRIPTION_3": "Also, the User can block and delete cookies installed on their computer by configuring their browser options.",
+      "DESCRIPTION_4": "Different browsers can be configured to notify the User of the receipt of cookies and, if desired, prevent their installation on the computer. Additionally, the User can check in their browser which cookies are installed and their expiration date, being able to delete them. Information on how to do this for the most common browsers can be found in the links below:",
+      "DESCRIPTION_5": "Chrome:",
+      "DESCRIPTION_5_URL": "https://support.google.com/chrome/answer/95647?hl=en",
+      "DESCRIPTION_6": "For more information on managing cookies in Internet Explorer:",
+      "DESCRIPTION_6_URL": "http://windows.microsoft.com/en-us/windows-vista/cookies-frequently-asked-questions",
+      "DESCRIPTION_7": "For more information on managing cookies in Mozilla Firefox:",
+      "DESCRIPTION_7_URL": "https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences",
+      "DESCRIPTION_8": "For more information on managing cookies in Safari:",
+      "DESCRIPTION_8_URL": "http://www.apple.com/privacy/use-of-cookies",
+      "DESCRIPTION_9": "For more information on managing cookies in Opera:",
+      "DESCRIPTION_9_URL": "http://help.opera.com/Windows/11.50/en-EN/cookies.html",
+      "DESCRIPTION_10": "If you want to stop being tracked by Google Analytics, visit:",
+      "DESCRIPTION_10_URL": "http://tools.google.com/dlpage/gaoptout",
+      "DESCRIPTION_11": "Chrome:"
+    },
+    "MORE_INFO": {
+      "TITLE": "To Learn More About Cookies",
+      "DESCRIPTION_1": "You can get more information about behavior-based online advertising and online privacy at the following link:",
+      "DESCRIPTION_1_URL": "http://www.youronlinechoices.com/en",
+      "DESCRIPTION_2": "Google Analytics Data Protection",
+      "DESCRIPTION_2_URL": "http://www.google.com/analytics/learn/privacy.html",
+      "DESCRIPTION_3": "How Google Analytics uses cookies:",
+      "DESCRIPTION_3_URL": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en#analyticsjs"
+    },
+    "THIRD_PARTY": {
+      "TITLE": "Third Parties and International Transfers",
+      "DESCRIPTION": "You can obtain information about the processing carried out by third parties and possible data transfers to other countries by these third parties identified in this cookie policy in the links provided in this cookie policy. Different mechanisms for regulating international transfers, if they exist, will be informed by these third parties."
+    },
+    "UPDATES": {
+      "TITLE": "Updates and Changes to the Cookie Policy",
+      "DESCRIPTION": "FAN CONTENT may modify this Cookie Policy based on legislative or regulatory requirements, or to adapt the policy to instructions issued by the Spanish Data Protection Agency and the European Data Protection Committee, so Users are advised to visit it periodically.",
+      "DATE": "Date of last update: December 12, 2023."
+    },
+    "SITE_COOKIES": {
+      "TITLE": "What Cookies Does This Website Use?",
+      "THEAD_NAME": "Name",
+      "THEAD_EXPIRY": "Expiry",
+      "THEAD_PROVIDER": "Provider",
+      "THEAD_PURPOSE": "Purpose",
+      "ANALYTICS": [
+        {
+          "NAME": "_ga",
+          "EXPIRE": "2 years",
+          "PROVIDER": {
+            "NAME": "Google",
+            "URL": "https://google.com/"
+          },
+          "OBJECTIVE": "Used to distinguish users.",
+          "OBJECTIVE_URL": ""
+        },
+        {
+          "NAME": "_gid",
+          "EXPIRE": "24 hours",
+          "PROVIDER": {
+            "NAME": "Google",
+            "URL": "https://google.com/"
+          },
+          "OBJECTIVE": "Used to distinguish users.",
+          "OBJECTIVE_URL": ""
+        },
+        {
+          "NAME": "_ga_J8PJQBXG7J",
+          "EXPIRE": "2 years",
+          "PROVIDER": {
+            "NAME": "Google",
+            "URL": "https://google.com/"
+          },
+          "OBJECTIVE": "Used to maintain session state.",
+          "OBJECTIVE_URL": ""
+        },
+        {
+          "NAME": "_gac_gb_J8PJQBXG7J",
+          "EXPIRE": "90 days",
+          "PROVIDER": {
+            "NAME": "Google",
+            "URL": "https://google.com/"
+          },
+          "OBJECTIVE": "Includes information related to the campaign. If you have linked your Google Analytics and Google Ads accounts, Google Ads website conversion tags will read this cookie unless you disable it.",
+          "OBJECTIVE_URL": "https://support.google.com/google-ads/answer/7521212?hl=en"
+        }
+      ]
+    }
+  },
+  "PRIVACY": {
+    "POLICY": {
+      "TITLE": "Privacy Policy",
+      "DESCRIPTION_1": "We are pleased that you are visiting the official website of PREMIOS ESLAND www.premiosesland.com (hereinafter, Website), and we appreciate your interest.",
+      "DESCRIPTION_2": "UBIQ S.L.U (hereinafter, UBIQ) is committed to complying with current legislation on personal data protection to ensure the privacy, confidentiality, and security of Users' personal data by applying appropriate technical and organizational measures for this purpose.",
+      "DESCRIPTION_3": "This Privacy Policy aims to inform Users about the processing that UBIQ carries out on the personal data that the User provides when accessing, browsing, and using the services offered on the Website, as well as the security measures adopted, the exercise of Users' rights, and the contact method.",
+      "DESCRIPTION_4": "Personal data will only be obtained by UBIQ for processing when they are adequate, relevant, and not excessive in relation to the scope and purposes determined, explicit, and legitimate for which they were obtained.",
+      "DESCRIPTION_5": "Below, in compliance with current regulations on personal data protection, we provide Users with the following information:"
+    },
+    "RESPONSIBLE": {
+      "TITLE": "Data Controller",
+      "DESCRIPTION_1": "UBIQ S.L.U (hereinafter, UBIQ), an Andorran company with NRT L-718097-X, with registered office at Calle Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra), registered with the Companies Registry of the Government of Andorra with number 23023, with email [info@ubiq.ad………….], is the owner of the website www.premiosesland.com (hereinafter, Website).",
+      "DESCRIPTION_2": "Users can contact the Data Controller through the following email address: info@ubiq.ad"
+    },
+    "DEFINITIONS": {
+      "TITLE": "Definitions",
+      "DESCRIPTION": "For the purposes of this Policy, the following terms will have the meanings indicated below:",
+      "ITEM_1": "“Personal Data”: any information about an identified or identifiable natural person. An identifiable natural person is one whose identity can be determined, directly or indirectly, by an identifier.",
+      "ITEM_2": "“Data Controller”: Natural or legal person, public authority, service, or other body that, alone or jointly with others, determines the purposes and means of the processing of data.",
+      "ITEM_3": "“Data Processor”: Natural or legal person, public authority, service, or other body that processes personal data on behalf of the data controller.",
+      "ITEM_4": "“Data Subject-User”: Any identified or identifiable natural person whose personal data is subject to processing.",
+      "ITEM_5": "“Data Processing”: Any operation or set of operations performed on Personal Data or sets of personal data, whether by automated means or not, such as collection, recording, organization, structuring, storage, adaptation, or alteration, retrieval, consultation, use, communication by transmission, dissemination, or any other form of making available, alignment or combination, restriction, erasure, or destruction."
+    },
+    "PURPOSE": {
+      "TITLE": "Purpose of Processing",
+      "DESCRIPTION_1": "Manage information requests received through the 'Contact' function on the Website. Manage votes for the PREMIOS ESLAND made by Website Users (identification, validation, and vote counting). Statistical purposes for participation and results of votes in the PREMIOS ESLAND -personal data will undergo a anonymization process to fulfill this purpose-. To participate as a jury in the PREMIOS ESLAND, Users must click on 'Identify and Vote' and will be redirected to the Twitch website (www.twitch.tv), where they must have an open account on that streaming platform. When the User, from their account, clicks 'Authorize,' they are expressing that they have read and accepted the Privacy Policy of www.premiosesland.com. Then, the User can select their voting preferences from the different categories defined by Streamers and content, following the instructions on the Website. Once their votes are selected, they must click 'Submit My Votes.' The votes and the User's identity will be recorded in UBIQ's database. The User's identity will be recorded using a hash code -mathematical algorithm- (pseudonymized).",
+      "DESCRIPTION_2": "Twitch Interactive, Inc., the owner of www.twitch.tv, acts as a provider of validation and identity verification services for Users who vote to prevent fraud in the voting process."
+    },
+    "PERSONAL_DATA": {
+      "TITLE": "Category of Personal Data",
+      "DESCRIPTION_1": "The category of data processed by UBIQ on the Website includes:",
+      "DESCRIPTION_2": "Email address for the Contact function. Identifying data: User identification using a hash code -mathematical algorithm-. UBIQ does not have access to the data in the accounts that Users have on www.twitch.tv."
+    },
+    "LEGITIMACY": {
+      "TITLE": "Legitimacy Basis",
+      "DESCRIPTION_1": "The legitimacy basis for managing communications received through the 'Contact' function is the legitimate interest of UBIQ.",
+      "DESCRIPTION_2": "The legitimacy basis for processing the personal data of Users participating in the PREMIOS ESLAND is the express consent granted when participating as a jury and UBIQ's legitimate interest in managing the events it organizes and in managing the PREMIOS ESLAND.",
+      "DESCRIPTION_3": "The User may revoke consent at any time. However, processing of personal data carried out before the revocation of consent will be lawful."
+    },
+    "PRESERVATION": {
+      "TITLE": "Data Retention",
+      "DESCRIPTION_1": "The data will be retained for the strictly necessary period to fulfill the purpose for which they were collected. However, UBIQ may retain the data for availability to competent authorities or to address possible claims, in which case the data will be kept blocked until the end of the prescription periods, after which they will be deleted with appropriate security measures.",
+      "DESCRIPTION_2": "After the retention period, personal data may undergo a anonymization process for statistical purposes related to the PREMIOS ESLAND."
+    },
+    "COMMUNICATION": {
+      "TITLE": "Data Communication",
+      "DESCRIPTION_1": "UBIQ will not transfer the data provided by Users of the Website to third parties, except with the prior and express consent of the Users or when necessary by legal imperative (Public administrations, Security Forces and Bodies, Public Prosecutor's Office, Spanish Data Protection Agency, etc.).",
+      "DESCRIPTION_2": "UBIQ informs Users that personal data may be communicated to UBIQ's providers to attend to the management of the PREMIOS ESLAND, in which case they will be treated as data processors following UBIQ's instructions regarding the processing of personal data."
+    },
+    "USER_RIGHTS": {
+      "TITLE": "User Rights",
+      "DESCRIPTION_1": "UBIQ informs Users that, regarding the processing of their personal data, they can exercise the following rights:",
+      "ITEM_1": "Right to revoke the consent granted at any time.",
+      "ITEM_2": "Right to obtain information about whether UBIQ processes the User's personal data.",
+      "ITEM_3": "Right of access, rectification, portability, and erasure of their data, and to limit or oppose the processing.",
+      "ITEM_4": "Right not to be subject to automated individual decisions, including profiling.",
+      "ITEM_5": "Right to file a complaint with the Spanish Data Protection Agency (www.aepd.es) when the User believes that UBIQ has violated their rights in the processing of personal data.",
+      "DESCRIPTION_2": "Users may exercise their rights at any time and free of charge by sending a written request to UBIQ S.L.U. by postal mail to the address at Calle Ganduxer, No. 129, C.P 08022 Barcelona, or by email to the address [……info@fan.content.com…….]. In both cases, a copy of the National Identity Document or equivalent document proving their identity must be attached."
+    },
+    "THIRD_PARTY_DOMAIN_LINKS": {
+      "TITLE": "Third-Party Domain Links",
+      "DESCRIPTION": "To participate as a jury, Users will be redirected to the domain www.twitch.tv owned by a third party -Twitch Interactive, Inc. This domain has its own Terms of Use, Privacy Policy, and Cookie Policy. Therefore, we recommend that Users consult them before use."
+    },
+    "SOCIALS": {
+      "TITLE": "Social Networks",
+      "DESCRIPTION_1": "This Website may contain links that allow access to different social networks owned and managed by third parties (e.g., Facebook, Instagram, YouTube). These links on the Website are solely intended to facilitate Users' access to social networks to inform them about events organized by UBIQ.",
+      "DESCRIPTION_2": "The activation and use of these applications may involve the identification and authentication of the User (login/password) on the corresponding platforms, completely external to the Website and beyond the control of UBIQ. These social networks and platforms have their own privacy policies and cookie treatment. In this regard, any information and personal data that the User provides to these platforms will be under their sole and exclusive responsibility."
+    },
+    "COOKIES": {
+      "TITLE": "Cookies",
+      "DESCRIPTION_1": "This Website does not use cookies to collect information from Users; only proprietary, session cookies with a technical purpose are used - those that allow Users to navigate safely through the Website and use the different functions and services offered on the Website. For more detailed information, refer to the Cookie Policy.",
+      "DESCRIPTION_2": "However, this Website may contain links to third-party websites with privacy and cookie policies unrelated to UBIQ, and Users can decide whether to accept or reject them when accessing those websites."
+    },
+    "INTERNATIONAL_TRANSFERS": {
+      "TITLE": "International Transfers",
+      "DESCRIPTION": "Personal data may be hosted on servers located outside the European Economic Area (United States, Japan, Australia, Japan). By participating in the PREMIOS ESLAND, you consent to such data transfer and are informed that these transfers guarantee the existence of an Adequacy Decision from the European Data Protection Committee or the adoption of additional safeguard measures to ensure a level of protection adequacy aligned with the General Data Protection Regulation of the European Union."
+    },
+    "MODIFICATIONS": {
+      "TITLE": "Privacy Policy Modifications",
+      "DESCRIPTION": "UBIQ reserves the right to modify this Privacy Policy based on legislative or regulatory requirements or to adapt it to the instructions issued by the Spanish Data Protection Agency and/or the European Data Protection Committee; therefore, Users are advised to visit it periodically. When significant changes occur in this Policy, they will be published on the Website.",
+      "LAST_UPDATE": "Date of last update: December 12, 2023."
+    }
+  },
+  "INFO": {
+    "TITLE_HERO_1": "The Awards",
+    "TITLE_HERO_2": "ESLAND",
+    "GALLERY_TITLE": "GALLERY",
+    "GALLERY_TEXT": "Some of the best moments from the gala that will go down in history."
+  },
+  "LEGAL_NOTICE": {
+    "TITLE": "Legal Notice",
+    "ACCESS_AND_USE": {
+      "TITLE": "Conditions of Access and Use",
+      "DESCRIPTION_1": "Accessing, browsing, and using the website www.premiosesland.com implies the express and unconditional acceptance of all the terms of use included in this Legal Notice. Compliance is enforceable regarding any person who accesses, browses, or uses the website. If the User does not agree with all or part of the terms of use as outlined, they must refrain from accessing, browsing, or using the website."
+    },
+    "OWNERSHIP_AND_CONTACT_DATA": {
+      "TITLE": "Ownership and Contact Data",
+      "DESCRIPTION_1": "UBIQ S.L.U (hereinafter, UBIQ), an Andorran company with NRT L-718097-X, with registered office at Calle Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra), registered with the Companies Registry of the Government of Andorra with number 23023, with email [info@ubiq.ad………….], is the owner of the website www.premiosesland.com (hereinafter, Website). Users of the Website can contact UBIQ by sending an email to: info@ubiq.ad"
+    },
+    "PURPOSE_AND_CONTENT_WEBSITE": {
+      "TITLE": "Purpose and Content of the Website",
+      "DESCRIPTION_1": "This website aims to inform users about the events organized by UBIQ related to Streamers' activities and offers the opportunity to participate in these events as a jury for the Esland Awards, selecting and voting for their favorite Streamers and content. Access to the information on the website does not imply or constitute any contractual relationship between the User and UBIQ.",
+      "DESCRIPTION_2": "UBIQ makes every effort to ensure that all information available on the website is complete and up-to-date, periodically reviewing the content of the website. However, the User acknowledges and accepts that all information available on the website is provided solely for informational purposes, and UBIQ does not guarantee the accuracy, suitability, and completeness of the information contained on the website. The User is solely responsible for the use of the information contained on the website."
+    },
+    "TERMS_OF_USE": {
+      "TITLE": "Terms of Use",
+      "DESCRIPTION_1": "These general conditions of use regulate access and navigation on the website, which has free and open access for Users, and registration is not required for Users to access and use it. However, if Users wish to actively participate in the ESLAND AWARDS as a jury and vote for their favorite Streamers and content, they must have an open account on the www.twitch.tv streaming platform. During the voting process, Users will be informed of the steps to follow to cast their votes in the different designated categories.",
+      "DESCRIPTION_2": "Access, use, or navigation on the website confers the status of User and implies knowledge, acceptance, and submission to the legal warnings and conditions of use included in this Legal Notice in the version published at the time the User accesses the website. The User agrees that the use of the website is at their sole and exclusive risk. Users are advised to read this Legal Notice each time they access the website.",
+      "DESCRIPTION_3": "UBIQ reserves the right to interrupt, temporarily suspend, deactivate, and/or cancel access to the website or any of its elements without prior notice and at any time."
+    },
+    "USE_OF_WEBSITE_AND_RESPONSIBILITY": {
+      "TITLE": "Use of the Website and Responsibility",
+      "DESCRIPTION_1": "The User is responsible for the use they make of the website and its content and does so at their own risk. By accessing, the User agrees and undertakes to use the website, its content, and services in accordance with the law, this Legal Notice, good customs, and public order, and shall be liable to UBIQ or third parties for any damages that may arise from the breach of these obligations.",
+      "DESCRIPTION_2": "Do not destroy, alter, disable, or damage the data or software of the website.",
+      "DESCRIPTION_3": "Do not obstruct other Users' access to the website.",
+      "DESCRIPTION_4": "Do not introduce viruses or any other device that may cause or contribute to alterations in UBIQ's systems.",
+      "DESCRIPTION_5": "Do not copy the Software.",
+      "DESCRIPTION_6": "Do not distribute, share, sublicense, lend, rent, or make the website available to third parties.",
+      "DESCRIPTION_7": "Do not reverse engineer, decompile, or disassemble the Software of the website or attempt to obtain its source code.",
+      "DESCRIPTION_8": "Do not store, introduce, or disseminate defamatory, injurious, obscene, threatening, xenophobic, or violence-inciting information or material, discriminatory by reason of race, sex, ideology, religion, which violates morality, public order, fundamental rights, public liberties, honor, privacy, or the image of third parties, and, in general, infringes current regulations.",
+      "DESCRIPTION_9": "The User is solely and exclusively responsible for accessing the website and using the information and data contained therein.",
+      "DESCRIPTION_10": "UBIQ will not be responsible for any consequences, damage, or harm derived from the User's access or use of the website and its content. UBIQ, as the owner of the website, is exempt from any liability that may arise from the actions of the User. Thus, the User is solely responsible for any claims initiated by third parties against UBIQ for the User's access or use of the website."
+    },
+    "DISCLAIMER_OF_LIABILITY": {
+      "TITLE": "Disclaimer of Liability",
+      "DESCRIPTION_1": "UBIQ makes every effort to ensure that the use of the website is carried out under the best conditions and to provide up-to-date information; however, UBIQ does not guarantee the absence of errors or omissions in the content of the website, nor does it guarantee uninterrupted access to the website. UBIQ is authorized to temporarily suspend access to the website without prior notice.",
+      "DESCRIPTION_2": "Any failure or interruption of communication, lack of availability, updating, maintenance, and effective operation of the website and/or its services or content.",
+      "DESCRIPTION_3": "Failure to meet Users' expectations regarding the website or the server that supplies it.",
+      "DESCRIPTION_4": "The invulnerability of the website and/or the invulnerability of the security measures adopted therein.",
+      "DESCRIPTION_5": "The content, services, errors, or omissions that the website's content or links may have.",
+      "DESCRIPTION_6": "The existence of viruses or harmful programs in the content that may cause alterations to Users' computer systems, electronic documents, or stored files.",
+      "DESCRIPTION_7": "Telephone or network breakdowns caused by reasons beyond the owner of the website.",
+      "DESCRIPTION_8": "Delays or blocks in the operational functioning of the system caused by deficiencies or overload in telephone lines or the Internet.",
+      "DESCRIPTION_9": "Unauthorized third-party intrusions beyond the control of the owner of the website, such as unauthorized access, copying, alteration, or deletion of information and data carried out by third parties on the website.",
+      "DESCRIPTION_10": "UBIQ employs all necessary technical resources to reduce such risks. However, Users are informed that such risks exist, and UBIQ is not responsible for the damages they may cause."
+    },
+    "INTELLECTUAL_AND_INDUSTRIAL_PROPERTY": {
+      "TITLE": "Intellectual and Industrial Property",
+      "DESCRIPTION_1": "The content of the website is governed by Spanish laws and protected by national and international legislation on Intellectual and Industrial Property.",
+      "DESCRIPTION_2": "The Intellectual and Industrial Property Rights over all the information contained on this website, including, among others, trademarks, trade names, graphic design, drawings, logos, images, indexes, texts, audios, videos, software, design, and identifying signs, as well as their source codes, navigation structure, databases, and all elements contained therein, are protected by copyright and intellectual and industrial property rights of UBIQ or third parties.",
+      "DESCRIPTION_3": "In no case should the access and use of the website by Users be considered as a license to use or a right to any asset of UBIQ or its legitimate authors. Therefore, it does not imply a transfer, transmission, or any kind of waiver of intellectual or industrial property rights.",
+      "DESCRIPTION_4": "Unless expressly authorized by UBIQ or the third-party owners, all reproduction, copying, conversion, distribution, modification, deletion, or transformation, publication, commercialization, use of reverse engineering techniques, or any other means to obtain the source code and any other activity that may be carried out with the data and information contained on the website, as well as with its design and the selection and presentation model, is prohibited. The User uses the information that can be accessed through the use of the website exclusively for personal purposes and under no circumstances for commercial or business purposes.",
+      "DESCRIPTION_5": "The unauthorized use of the information contained on the website, its modification, or deletion of data, as well as the infringement of the Intellectual or Industrial Property Rights of UBIQ or third parties, will give rise to the legally established responsibilities, with UBIQ reserving the right to exercise legal actions against Users who violate or infringe intellectual or industrial property rights."
+    },
+    "THIRD_PARTY_LINKS": {
+      "TITLE": "Third-Party Links",
+      "DESCRIPTION_1": "This website may contain links to other websites managed by third-party owners. Thus, to participate as a jury, Users will be redirected to the domain www.twitch.tv owned by a third party -Twitch Interactive, Inc. This domain has its own Terms of Use, Privacy Policy, and Cookie Policy. Therefore, we recommend that Users read them before registering and opening an account on that domain.",
+      "DESCRIPTION_2": "UBIQ reserves the right to unilaterally withdraw links that appear on this website at any time."
+    },
+    "SOCIAL_NETWORKS": {
+      "TITLE": "Social Networks",
+      "DESCRIPTION_1": "This website may contain links that allow Users to access different social networks owned and/or managed by third parties (e.g., Facebook, Instagram, YouTube). These links on the website are solely intended to facilitate Users' access to social networks to inform them about events organized by UBIQ.",
+      "DESCRIPTION_2": "The activation and use of these applications may involve the identification and authentication of the User (login/password) on the corresponding platforms, completely external to the website and beyond the control of UBIQ. By accessing these external networks, the User enters an environment not controlled by UBIQ, so UBIQ assumes no responsibility for the security configuration of these environments. These social networks and platforms have their own privacy policies and cookie treatment. In this regard, any information and personal data that the User provides to these platforms will be under their sole and exclusive responsibility."
+    },
+    "DATA_PROTECTION": {
+      "TITLE": "Personal Data Protection",
+      "DESCRIPTION_1": "UBIQ, as the owner of the website, informs Users that it is responsible for the processing of personal data requested and provided during the use of the website.",
+      "DESCRIPTION_2": "In accordance with applicable data protection legislation, UBIQ respects the privacy of Users and the confidentiality and security of personal data, adopting the necessary technical and organizational measures to prevent loss, misuse, alteration, unauthorized access, and theft of the provided data, taking into account the state of technology, the nature of the data, and the risks to which they are exposed.",
+      "DESCRIPTION_3": "The personal data of Users of the website will only be obtained for processing when it is appropriate, relevant, and not excessive in relation to the specified, explicit, consented, and/or legitimate purposes for which they have been collected. When personal data is collected through the website, the User will be informed clearly and unequivocally in advance.",
+      "DESCRIPTION_4": "Users should visit the Privacy Policy of UBIQ on this same website, where they will find detailed information regarding the protection of personal data."
+    },
+    "SITE_UPDATE": {
+      "TITLE": "Website Update",
+      "DESCRIPTION_1": "To improve the service for the benefit of Users, UBIQ S.L.U reserves the right to update, modify, or delete the presentation and configuration of the website, its contents, and information contained therein without prior notice, as well as modify the Terms of Use, which will come into effect from the moment of their publication on the website, being applicable from that date."
+    },
+    "WEB_INTEROPERABILITY_AND_FUNCTIONALITY": {
+      "TITLE": "Website Interoperability and Functionality",
+      "DESCRIPTION_1": "The website runs on updated 2019 versions of the Safari, Firefox, Internet Explorer, and Chrome platforms. It is especially optimized for Chrome."
+    },
+    "INTEGRITY": {
+      "TITLE": "Integrity",
+      "DESCRIPTION_1": "If any of the conditions of use of this Legal Notice are annulled or considered invalid, the remaining conditions will not be affected, continuing in full force and validity."
+    },
+    "APPLICABLE_LEGISLATION_AND_JURISDICTION": {
+      "TITLE": "Applicable Legislation and Jurisdiction",
+      "DESCRIPTION_1": "Any question or controversy that may arise in reference to the application of this Legal Notice between the User and UBIQ is governed by the current Spanish regulations applicable in the matter. And whenever the current regulations provide for the possibility for the parties to submit to a specific jurisdiction, the User expressly waives the jurisdiction that may correspond to them and submits to the resolution of the dispute to the Courts and Tribunals of Barcelona."
+    },
+    "MODIFICATIONS": {
+        "LAST_UPDATE": "Date of last update: December 12, 2023."
+    }
+
+  }
 }
