@@ -1,6 +1,22 @@
 {
     "SEO_TITLE": "ESLAND Awards 2024 - Celebrating the best of streaming and content creators",
     "SEO_DESCRIPTION": "Discover the best content creators from Spain, Latin America and Andorra. Vote for your favorites! Celebrate the innovation and talent of Twitch, YouTube and more",
+    "SEO": {
+      "ARCHIVO_TITLE": "Archive of previous editions - ESLAND Awards 2024",
+      "ARCHIVO_DESCRIPTION": "Review the best moments of previous editions",
+      "INFO_TITLE": "Information - ESLAND Awards 2024",
+      "INFO_DESCRIPTION": "Discover everything you need to know about the ESLAND Awards 2024 and download the Press Kit",
+      "VOTE_TITLE": "Vote for your favorite content creators - ESLAND Awards 2024",
+      "VOTE_DESCRIPTION_en": "Vote for your favorite content creators from Spain, Latin America and Andorra"
+    },
+    "HEADER": {
+      "LOGO": "Back to the ESLAND Awards homepage"
+    },
+    "HEADER_VOTE": "VOTE",
+    "HEADER_INFO": "INFO",
+    "HEADER_ARCHIVE": "ARCHIVE",
+    "HEADER_BUTTON": "NOMINATION CRITERIA",
+    "HERO_SUBTITLE": "Awards to the Spanish-speaking Streaming Community",
     "INTRO_TITLE": "Welcome",
     "INTRO_TITLE_AFTER_BR": "to the ESLAND Awards",
     "INTRO_DESCRIPTION_1": "The cinema has the Oscars, the music has the Grammys and <strong>the streaming has the ESLAND</strong>. The awards that celebrate the creativity and talent of the best content creators of <strong>the Spanish-speaking community</strong>",
