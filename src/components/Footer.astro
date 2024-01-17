@@ -1,5 +1,10 @@
 ---
-import Logo from "@/components/Logo.astro";
+import Logo from '@/components/Logo.astro'
+
+import { getI18N } from '@/i18n/index'
+
+const { currentLocale } = Astro
+const i18n = getI18N({ currentLocale })
 ---
 
 <footer class="bg-black/40">
@@ -58,54 +63,54 @@ import Logo from "@/components/Logo.astro";
       </div>
       <div class="grid grid-cols-2 gap-10 sm:grid-cols-3 sm:gap-16">
         <div>
-          <h2 class="mb-6 text-sm font-semibold uppercase text-white">Legal</h2>
+          <h2 class="mb-6 text-sm font-semibold uppercase text-white">{i18n.FOOTER.LEGAL.TITLE}</h2>
           <ul class="flex flex-col gap-2 font-medium text-gray-400">
             <li>
               <a 
                 href="/aviso-legal" 
                 class="hover:underline hover:text-primary duration-300"
-              >Aviso Legal</a>
+              >{i18n.FOOTER.LEGAL.NOTICE}</a>
             </li>
             <li>
               <a 
                 href="/privacidad" 
                 class="hover:underline hover:text-primary duration-300"
-              >Privacidad</a>
+              >{i18n.FOOTER.LEGAL.PRIVACY}</a>
             </li>
             <li>
               <a 
                 href="/cookies" 
                 class="hover:underline hover:text-primary duration-300"
-              >Cokkies</a>
+              >{i18n.FOOTER.LEGAL.COOKIES}</a>
             </li>
           </ul>
         </div>
         <div>
-          <h2 class="mb-6 text-sm font-semibold uppercase text-white">Web Map</h2>
+          <h2 class="mb-6 text-sm font-semibold uppercase text-white">{i18n.FOOTER.WEB_MAP.TITLE}</h2>
           <ul class="flex flex-col gap-2 font-medium text-gray-400">
             <li>
               <a 
                 href="/" 
                 class="hover:underline hover:text-primary duration-300"
-              >Home</a>
+              >{i18n.FOOTER.WEB_MAP.HOME}</a>
             </li>
             <li>
               <a 
                 href="/info" 
                 class="hover:underline hover:text-primary duration-300"
-              >Info</a>
+              >{i18n.FOOTER.WEB_MAP.INFO}</a>
             </li>
             <li>
               <a 
                 href="/archivo"
                 class="hover:underline hover:text-primary duration-300"
-              >Archivo</a>
+              >{i18n.FOOTER.WEB_MAP.ARCHIVE}</a>
             </li>
           </ul>
         </div>
         <div>
           <h2 class="mb-0 text-sm font-semibold uppercase text-white">
-            Legal
+            {i18n.FOOTER.PRODUCED_BY}
           </h2>
           <a
             class="hover:scale-110 transition block"
@@ -121,7 +126,7 @@ import Logo from "@/components/Logo.astro";
     <hr class="my-6 border-white/10 sm:mx-auto lg:my-8" />
     <div class="sm:flex sm:items-center sm:justify-between">
       <span class="text-sm text-gray-400 sm:text-center">
-        © ESLAND 2021 - 2024 Todos los derechos reservados. 
+        {i18n.FOOTER.DISCLAIMER} 
       </span>
       <div class="mt-4 flex sm:mt-0 sm:justify-center">
         <a
