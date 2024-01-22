@@ -2,6 +2,7 @@
 import { ViewTransitions } from 'astro:transitions'
 import Header from '../components/Header.astro'
 import '@fontsource-variable/onest'
+import Footer from '@/components/Footer.astro';
 
 interface Props {
   description: string;
@@ -35,6 +36,7 @@ const { currentLocale } = Astro
 	<body>
     <Header />
 		<slot />
+		<Footer />
 	</body>
 </html>
 
