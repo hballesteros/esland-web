@@ -10,17 +10,19 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.3.4",
-    "@astrojs/preact": "^3.1.0",
-    "@astrojs/tailwind": "^5.1.0",
-    "@fontsource-variable/onest": "^5.0.2",
-    "@justinribeiro/lite-youtube": "^1.5.0",
-    "astro": "^4.1.1",
-    "preact": "^10.19.3",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5.3.3"
+    "@appnest/masonry-layout": "^2.2.3",
+    "@astrojs/check": "0.4.1",
+    "@astrojs/preact": "3.1.0",
+    "@astrojs/tailwind": "5.1.0",
+    "@fontsource-variable/onest": "5.0.2",
+    "@justinribeiro/lite-youtube": "1.5.0",
+    "astro": "4.2.1",
+    "photoswipe": "5.4.3",
+    "preact": "10.19.3",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.3.3"
   },
   "devDependencies": {
-    "tailwindcss-animated": "^1.0.1"
+    "tailwindcss-animated": "1.0.1"
   }
 }
